@@ -1,6 +1,6 @@
 # Visitor Count
 
-# ![Visitor Count](https://profile-counter.glitch.me/yourancc/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/yourancc/count.svg)
 
 <table>
     <tr>
